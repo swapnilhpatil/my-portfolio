@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Swapnil | Portfolio',
-  description: 'Swapnil Patil is a Senior full stack Developer with 8 years experience.',
+  description: 'Swapnil Patil is a Senior full stack Developer based India with 8 years experience. this is hin personal portfolio.',
 }
 
 export default function RootLayout({
